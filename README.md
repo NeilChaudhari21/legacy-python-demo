@@ -28,7 +28,7 @@ from packaging.version import Version
 ## Target Migration Scenario
 
 Source Python version: 3.11
-Target Python version: 3.13
+Target Python version: 3.14
 
 ## Run Tests
 
